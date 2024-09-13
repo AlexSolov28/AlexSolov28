@@ -1,15 +1,32 @@
 Hi 👋 My name is Alexandra
 ==========================
 
-Я студент МГТУ им Н.Э. Баумана. Учусь на факультете "Информатика и вычислительная техника" по направлению "Системы обработки информации и управления". Сейчас изучаю Data Sciense.
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Я начинающий Data Analystic. Я выпускник МГТУ им Н.Э. Баумана 2024 года. Училась на факультете "Информатика и вычислительная техника" по направлению "Системы обработки информации и управления". Сейчас изучаю Data Sciense. В настоящий момент я ищу свою первую работу!</p>
+
+###
 
 * ✉️  You can contact me at [solovevaaleksandra28@gmail.com](mailto:solovevaaleksandra28@gmail.com)
 
-### Skills
+###
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+<h3 align="left">Технологии:</h3>
+
+###
+
+<div align="left">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
 
 ### Socials
 
