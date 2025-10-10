@@ -44,10 +44,8 @@
 - Визуализировать данные и формулировать **аналитические выводы и рекомендации**.  
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/AlexSolov28" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>
+📧 **Email:** [alexsolov28@gmail.com](mailto:solovevaaleksandra28@gmail.com)  
+📊 **Tableau / Power BI портфолио:** [GitHub → Power-BI](https://github.com/AlexSolov28/Power-BI)  
+💬 **Telegram:** [@alexsolov28](https://t.me/AlexandraSolov01)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsolov28&show_icons=true&locale=en&layout=compact" alt="alexsolov28" /></p>
