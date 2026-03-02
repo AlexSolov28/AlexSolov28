@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
 <h3 align="center">Data Analyst / BI Analyst | SQL • DWH • BI</h3>
+### Data Analyst / BI Analyst | SQL • DWH • BI
 
-<p align="center">
-Выпускница факультета «Информатика и вычислительная техника» МГТУ им. Н. Э. Баумана.  
+Выпускница факультета «Информатика и вычислительная техника» МГТУ им. Н. Э. Баумана.
+
 Разрабатываю аналитические решения в среде DWH: от проектирования структур данных и написания SQL-запросов 
-до построения витрин и управленческих дашбордов.
-</p>
+до построения витрин данных и управленческих дашбордов.
 
-<p align="center">
-Имею опыт работы в DWH/BI-команде. Разрабатывала и оптимизировала SQL-процедуры мониторинга индексов, 
-анализировала производительность БД, работала с метриками фрагментации и проектировала технические таблицы.  
-Оформляла техническую документацию, работала с Git.
-</p>
+Имею опыт работы в DWH/BI-команде:
+- разрабатывала и оптимизировала SQL-процедуры мониторинга индексов;
+- анализировала производительность БД и метрики фрагментации;
+- проектировала технические таблицы;
+- оформляла техническую документацию (ТЗ, диаграммы, unit-tests);
+- работала с Git.
 
 ## 🛠 Технический стек
 
@@ -31,8 +32,6 @@ Python • Pandas • NumPy • Scikit-learn • Jupyter • Seaborn
 Git • Excel
 
 ## My Skill Set  
-
-## 🛠 Технический стек
 
 <div align="center">   
 
@@ -70,12 +69,7 @@ Git • Excel
 <a href="https://seaborn.pydata.org/" target="_blank">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a> 
-
-<!-- MS SQL Server (DWH основа) -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="MS SQL Server" height="50" />
-</a>   
-
+  
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
