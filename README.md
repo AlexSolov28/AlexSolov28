@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
-<h3 align="center">Data Analyst / BI Analyst | SQL • DWH • BI</h3>
+<h3 align="center">Data Engineer | SQL • DWH • BI</h3>
 
 Разрабатываю аналитические решения в среде DWH: от проектирования структур данных и написания SQL-запросов 
 до построения витрин данных и управленческих дашбордов.
