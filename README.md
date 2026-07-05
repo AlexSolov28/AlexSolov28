@@ -1,25 +1,62 @@
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
-<h3 align="center">Data Engineer | SQL • DWH • BI</h3>
 
-Разрабатываю аналитические решения в среде DWH: от проектирования структур данных и написания SQL-запросов 
-до построения витрин данных и управленческих дашбордов.
+<h3 align="center">
+Data Engineer | SQL • Python • DWH • AI
+</h3>
 
-## 🛠 Технический стек
+<p align="center">
+Building ETL pipelines, designing data warehouses and developing AI-powered solutions for document automation.
+</p>
 
-### 📊 DWH / Базы данных
-MS SQL Server • T-SQL • MySQL  
-Проектирование витрин данных • Индексы • Мониторинг производительности • Оптимизация запросов  
-Работа с метаданными • ETL-логика • Data Modeling (базовые принципы)
+---
 
-### 📈 BI и аналитика
-Power BI • Tableau  
-KPI (ROAS, CPA, NPS, CSI) • EDA • Построение дашбордов
+## 👋 About me
 
-### 🐍 Data Analysis
-Python • Pandas • NumPy • Scikit-learn • Jupyter • Seaborn
+Data Engineer with experience in developing ETL processes, designing relational databases and creating analytical solutions.
 
-### 🔧 Инструменты
-Git • Excel
+Currently I work on:
+
+- 🤖 AI assistant for processing engineering comments (RAG)
+- ⚙️ ETL pipelines for MS SQL Server
+- 🏗️ Data warehouse and data mart design
+- 📊 Power BI dashboards and analytics
+- 🚀 Process automation using Python
+
+---
+
+# 🛠 Tech Stack
+
+### 💾 Data Engineering
+
+- MS SQL Server
+- T-SQL
+- MySQL
+- ETL
+- Data Warehouse (DWH)
+- Data Modeling
+- Index Optimization
+- Performance Monitoring
+
+### 🐍 Python
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter
+
+### 📊 BI & Analytics
+
+- Power BI
+- Tableau
+- KPI Dashboards
+- EDA
+
+### 🔧 Tools
+
+- Git
+- VS Code
+- Excel
 
 ## My Skill Set  
 
@@ -88,15 +125,17 @@ Git • Excel
 | [💼 Анализ вакансий hh.ru](https://github.com/AlexSolov28/Power-BI/tree/main/hh) | Исследование рынка аналитиков: зарплаты, регионы, готовность к командировкам. |
 
 ## 🧠 Что умею
-- Проводить **исследовательский анализ данных (EDA)** и выявлять закономерности.
-- Строить интерактивные **дашборды Power BI** для бизнеса и руководителей.
-- Разрабатывать **KPI и метрики** (ROAS, CPA, NPS, CSI, конверсии и др.).
-- Писать и оптимизировать **SQL-запросы** (JOIN, агрегаты, подзапросы, оконные функции).
-- Проектировать **витрины данных** и работать в среде DWH.
-- Анализировать **производительность БД**, работать с индексами и метриками фрагментации.
-- Разрабатывать и поддерживать **SQL-процедуры**.
-- Формализовывать требования и оформлять **техническую документацию** (ТЗ, диаграммы, unit-tests).
-- Визуализировать данные и формулировать **аналитические выводы и рекомендации** для бизнеса.  
+## 💡 Что умею
+
+- Разрабатывать **ETL-процессы** на Python.
+- Проектировать базы данных и витрины данных (DWH).
+- Писать и оптимизировать **SQL-запросы**.
+- Анализировать **производительность MS SQL Server и работать с индексами**.
+- Разрабатывать **SQL-процедуры**.
+- Создавать **аналитические дашборды в Power BI**.
+- Проводить **исследовательский анализ данных (EDA)**.
+- Разрабатывать **AI-решения для автоматизации обработки документов**.
+- Подготавливать **техническую документацию и описание архитектуры проектов**.
 
 ## Connect with me  
 💬 **Telegram:** [@AlexandraSolov01](https://t.me/AlexandraSolov01)
